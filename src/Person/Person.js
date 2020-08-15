@@ -33,6 +33,12 @@ const person = (props) => {
 
         }
     };
+
+    // const rnd= Math.random();
+
+    // if(end >0.7){
+    //     throw new Error('somthing wnt wrong');
+    // }
     return( 
         <StyleDiv>
     {/* // <div className="Person" style={style}> */}
